@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=76819C&height=200&section=header&text=My%20Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=My%20Profile&fontSize=90&fontColor=FFFFFF)
 
 
 
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbieman123)](https://github.com/newbieman123/github-readme-stats)
 
 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=76819C&height=200&section=footer)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=footer)
  
  </div>
