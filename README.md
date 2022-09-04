@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdbais)](https://solved.ac/dbdbais)
 
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
