@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdbais)(https://solved.ac/dbdbais)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdbais)](https://solved.ac/dbdbais)
 <img src="http://mazandi.herokuapp.com/api?handle=dbdbais&theme=cold"/>
 
   
