@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdbais)](https://solved.ac/dbdbais)
-       <img src="http://mazandi.herokuapp.com/api?handle=dbdbais&theme=cold"/>
-
+<img src="http://mazandi.herokuapp.com/api?handle=dbdbais&theme=cold"/>
+       
+       
 ***
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbieman123&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbieman123)](https://github.com/newbieman123/github-readme-stats)
 
