@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 |Incheon National Univ.|2016. 02 ~ 2018. 12|Information and Communication engineering|
 |Pusan National Univ.|2020. 02 ~ 2024. 02|Computer Science and Engineering|
 -->
-## 🏢 Internship
+## 📦 Stacks
  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
