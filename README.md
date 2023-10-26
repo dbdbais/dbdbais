@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+ 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=My%20Profile&fontSize=90&fontColor=FFFFFF)
 
-
+## 💻 Algorithm
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbdbais)](https://solved.ac/dbdbais)     
@@ -25,10 +26,9 @@ Here are some ideas to get you started:
 ## 📖 Education
 |School|Date|Major|
 |:---:|:---:|:---:|
-|Incheon National Univ.|2016. 02 ~ 2018. 12|Information and Communication engineering|
+|Incheon National Univ.|2016. 02 ~ 2018. 12|Information and Communication Engineering|
 |Pusan National Univ.|2020. 02 ~ 2024. 02|Computer Science and Engineering|
 
-<br/>
 
 ## 📄 Certificate
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
