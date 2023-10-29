@@ -26,16 +26,17 @@ Here are some ideas to get you started:
 ## 📖 Education 📖
 |Organization|Period of time|Type|State|
 |:---:|:---:|:---:|:---:|
-|Incheon National Univ.|2016. 02 ~ 2018. 12|Information and Communication Engineering|drop out|
-|Pusan National Univ.|2020. 02 ~ 2024. 02|Computer Science and Engineering|bachelor's degree|
+|Incheon National Univ.|2016. 02 - 2019. 06|Information and Communication Engineering|drop out|
+|Pusan National Univ.|2020. 02 - 2024. 02|Computer Science and Engineering|bachelor's degree|
 
 ## 📄 Certificate 📄
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
 |:---:|:---:|:---:|:---:|
-|Engineer Information Processing|---|2023.09.01|Permanent|
-|OPIc|Intermediate High|2023.09.09|2025.09.01|
+|Engineer Information Processing (정보처리기사)|---|2023.09.01|Permanent|
+|Korean History Proficiency Test (한국사능력검정시험)|1st Degree|2023.02.24|Permanent|
+|OPIc|Intermediate High|2023.09.02|2025.09.01|
 |TOEIC|900|2023.02.26|2025.02.26|
-|Korean History Proficiency Test|1st rate|2023.02.24|Permanent|
+
 
 <!--
 |Organization|Date||
