@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|
 |Incheon National Univ.|2016. 02 - 2019. 06|Information and Communication Engineering|drop out|
 |Pusan National Univ.|2020. 02 - 2024. 02|Computer Science and Engineering|bachelor's degree|
-|SSAFY|2024. 01 - 2024. 12(?) |Coding Bootcamp by Samsung|attending|
+|Samsung SW Academy For Youth|2024. 01 - 2024. 12 |Back-End Track|attending|
 
 ## 📄 Certificate 📄
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
