@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 |Organization|Date of the award|Project Name|Rank|
 |:---:|:---:|:---:|:---:|
 |Pusan National Univ.|2023. 11. 03|Capstone Design|Silver Award|
-|BDIA Job Fair|2023. 11. 01|Multi-Modal Spam Filtering Platform|win an Award|
+|BDIA Job Fair|2023. 11. 01|[Multi-Modal Spam Filtering Platform](https://github.com/dbdbais/Graduation-Project)|win an Award|
 
 
 <!--
