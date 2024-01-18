@@ -33,10 +33,16 @@ Here are some ideas to get you started:
 ## 📄 Certificate 📄
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
 |:---:|:---:|:---:|:---:|
-|Engineer Information Processing (정보처리기사)|---|2023.09.01|Permanent|
-|Korean History Proficiency Test (한국사능력검정시험)|1st Degree|2023.02.24|Permanent|
+|Engineer Information Processing|---|2023.09.01|Permanent|
+|Korean History Proficiency Test|1st Degree|2023.02.24|Permanent|
 |OPIc|Intermediate High|2023.09.02|2025.09.01|
 |TOEIC|900|2023.02.26|2025.02.26|
+
+## 🏆 Award 🏆
+|Organization|Date of the award|Project Name|Rank|
+|:---:|:---:|:---:|:---:|
+|Pusan National Univ.|2023. 11. 03|Capstone Design|Silver Award|
+|BDIA Job Fair|2023. 11. 01|Multi-Modal Spam Filtering Platform|win an Award|
 
 
 <!--
@@ -54,6 +60,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
  
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=footer)
  
