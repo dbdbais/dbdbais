@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
 |:---:|:---:|:---:|:---:|
 |Engineer Information Processing|---|2023.09.01|Permanent|
-|Korean History Proficiency Test|1st Degree|2023.02.24|Permanent|
+|SQLD|---|2024.04.05|2026.04.05|
 |OPIc|Intermediate High|2023.09.02|2025.09.01|
 |TOEIC|900|2023.02.26|2025.02.26|
-|SQLD|---|2024.04.05|2026.04.05|
+
 
 ## 🏆 Award 🏆
 |Organization|Date of the award|Project Name|Rank|
