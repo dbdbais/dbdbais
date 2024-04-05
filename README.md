@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 |Korean History Proficiency Test|1st Degree|2023.02.24|Permanent|
 |OPIc|Intermediate High|2023.09.02|2025.09.01|
 |TOEIC|900|2023.02.26|2025.02.26|
+|SQLD|---|2024.04.05|2026.04.05|
 
 ## 🏆 Award 🏆
 |Organization|Date of the award|Project Name|Rank|
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 -->
 ## 📦 Familiar with.. 📦
  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Jsp-e76f00?style=for-the-badge&logo=Jsp&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
