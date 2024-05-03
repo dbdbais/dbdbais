@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <div align="center">
  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=My%20Profile&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=Kangwoo's%20GitHub&fontSize=70&fontColor=FFFFFF)
 
 ## 💻 Algorithm 💻
 
