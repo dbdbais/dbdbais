@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <br>
 
 ## 📖 Education 📖
-|Organization|Period of time|Type|State|
+|Organization|GPA|Type|State|
 |:---:|:---:|:---:|:---:|
-|Incheon National Univ.|2016. 02 - 2019. 06|Information and Communication Engineering|drop out|
-|Pusan National Univ.|2020. 02 - 2024. 02|Computer Science and Engineering|bachelor's degree|
-|Samsung SW Academy For Youth|2024. 01 - 2024. 12 |Java Track|attending|
+|Incheon National Univ.|3.27 / 4.5 |Information and Communication Engineering|drop out|
+|Pusan National Univ.|3.87 / 4.5 |Computer Science and Engineering|bachelor's degree|
+|Samsung SW Academy For Youth| --- |Java Track|attending|
 
 ## 📄 Certificate 📄
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
