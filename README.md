@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|
 |Incheon National Univ.|3.27 / 4.5 |Information and Communication Engineering|drop out|
 |Pusan National Univ.|3.87 / 4.5 |Computer Science and Engineering|bachelor's degree|
-|Samsung SW Academy For Youth| 11th |Java Track|attending|
+|Samsung SW Academy For Youth| 11th |Web Track|complete|
 
 ## 📄 Certificate 📄
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
