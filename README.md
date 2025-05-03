@@ -23,29 +23,6 @@ Here are some ideas to get you started:
 <img src="http://mazandi.herokuapp.com/api?handle=dbdbais&theme=cold"/>  
 <br>
 
-## 📖 Education 📖
-|Organization|GPA|Type|State|
-|:---:|:---:|:---:|:---:|
-|Incheon National Univ.|3.27 / 4.5 |Information and Communication Engineering|drop out|
-|Pusan National Univ.|3.87 / 4.5 |Computer Science and Engineering|bachelor's degree|
-|Samsung SW Academy For Youth| 11th |Web Track|complete|
-
-## 📄 Certificate 📄
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Date of acquisition&nbsp;&nbsp;&nbsp;|&nbsp;Expired Date&nbsp;|
-|:---:|:---:|:---:|:---:|
-|Engineer Information Processing|---|2023.09.01|Permanent|
-|SQLD|---|2024.04.05|2026.04.05|
-|OPIc|Intermediate High|2023.09.02|2025.09.01|
-|TOEIC|900|2023.02.26|2025.02.26|
-
-
-## 🏆 Award 🏆
-|Organization|Date of the award|Project Name|Rank|
-|:---:|:---:|:---:|:---:|
-|Pusan National Univ.|2023. 11. 03|Capstone Design|Silver Award|
-|BDIA Job Fair|2023. 11. 01|[Multi-Modal Spam Filtering Platform](https://github.com/dbdbais/Graduation-Project)|win an Award|
-
-
 <!--
 |Organization|Date||
 |:---:|:---:|:---:|
@@ -93,5 +70,4 @@ Here are some ideas to get you started:
 
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=footer)
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdbdbais&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- </div>
+
